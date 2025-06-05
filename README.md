@@ -1,10 +1,10 @@
 ### About me
 
-Hi, I'm Bruno, a full-stack web developer from Portugal.
+I'm Bruno, a full-stack web developer and open-source contributor.
 
-I’m passionate about building clean, maintainable software, exploring modern tools, and contributing to open source.
+I'm passionate about building clean, maintainable software and working with modern tools.
 
-I also run a small homelab where I self-host services and experiment with Linux, Docker, and automation tools.
+I also run a small homelab where I self-host services and tinker with Linux, Docker, and automation tools.
 
 ### Tech I work with
 
